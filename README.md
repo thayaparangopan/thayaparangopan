@@ -39,13 +39,6 @@ I'm an **Information Systems undergraduate at Sabaragamuwa University of Sri Lan
 
 I enjoy exploring the intersection of mobile applications, backend engineering, databases, and Artificial Intelligence. Through academic and personal projects, I aim to transform creative ideas into practical, user-focused solutions.
 
-- 🧠 Exploring Artificial Intelligence and intelligent applications
-- 📱 Developing mobile applications and interactive user experiences
-- ⚙️ Building backend APIs and database-driven systems
-- 🎨 Interested in UI/UX design and creative problem-solving
-- 🌱 Continuously learning, experimenting, and building
-- 📚 Enjoying classical literature, poetry, and creative thinking
-
 > *Imagine. Innovate. Implement. Repeat.*
 
 ---
