@@ -61,7 +61,21 @@ I enjoy exploring the intersection of mobile applications, backend engineering, 
 ### 📱 Frontend & Mobile Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative" alt="React and React Native" />
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+    alt="React"
+    height="48"
+  />
+ <img
+    src="https://skillicons.dev/icons?i=flutter"
+    alt="Flutter"
+    height="48"
+  />
+   <img
+    src="https://cdn.simpleicons.org/react/61DAFB"
+    alt="React Native"
+    height="48"
+  />
 </p>
 
 ### ⚙️ Backend & Databases
